@@ -32,4 +32,4 @@ Recept podľa  https://laskavhrncoch.blogspot.com/2014/12/pecene-buchty-najlepsi
 
 ## Foto
 
-![30 buchiet v pekáči a 6 v hrnci](.\pecene-buchty-bez-vajec.jpeg)
+![30 buchiet v pekáči a 6 v hrnci](pecene-buchty-bez-vajec.jpeg)
